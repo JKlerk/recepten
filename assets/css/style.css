@@ -1,0 +1,41 @@
+body {
+    background: url("../img/background.jpg");
+    background-size: cover;
+    color: #FFFFFF;
+}
+
+section.Test {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+h1{
+    text-shadow: 1px 1px #000000;
+    font-size: 48px;
+    text-align: center;
+}
+
+
+P{
+    text-shadow: 1px 1px #000000;
+    font-size: 21px;
+}
