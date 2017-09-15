@@ -21,19 +21,22 @@ section.Navigation li {
     float: left;
 }
 
-.italy{
+#italy{
     margin: 100px 100px 100px 20px;
+    border: 1px solid #000000;
 }
 
-div.img1 {
+#img1 {
     position: absolute;
     top: 300px;
     right: 300px;
+    border: 1px solid #000000;
 }
-.Lasagne1 {
+#Lasagne1 {
     position: absolute;
     bottom: 100px;
     right: 70px;
+    border: 1px solid #000000;
 }
 
 section.Navigation li a {
@@ -63,8 +66,10 @@ h1{
 
 .kruiden{
     position: absolute;
+    opacity: 0.8;
     top: 320px;
     left: 1000px;
+    border: 1px solid #000000;
 }
 
 section.Lijst li{
