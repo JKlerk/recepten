@@ -21,8 +21,20 @@ section.Navigation li {
     float: left;
 }
 
+#Lijst2{
+    position: absolute;
+    top: 170px;
+    left: 500px;    
+    width: 230px;
+    height: 90px;
+    float: right;
+    text-shadow: 1px 1px #000000;
+    border: 1px solid #000000;
+    background-color: rgba(0, 0, 0, 0.25)
+}
+
 #italy{
-    margin: 100px 100px 100px 20px;
+    margin: 0px 100px 100px 20px;
     border: 1px solid #000000;
 }
 
@@ -72,10 +84,10 @@ h1{
     border: 1px solid #000000;
 }
 
-section.Lijst li{
+#Lijst li{
     font-size: 19px;
 }
 P{
-    text-shadow: 1px #000000;
+    text-shadow: 1px 1px #000000;
     font-size: 18px;
 }
